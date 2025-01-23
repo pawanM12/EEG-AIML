@@ -1,4 +1,4 @@
-# An automated approach for task evaluation using EEG signals
+# Deep Learning Model for Real-Time Prediction of Cognitive Load and Fatigue in High-Stakes Environments Using EEG Signals
 
 This project is an effort to use machine learning to understand the mental workload generated on an individual while performing a task and classifying the level of cognition induced in an individual.
 
