@@ -146,7 +146,4 @@ BTP_Code.ipynb - Contains the project code
 Normalsiedfeatures.csv - contains the data after applying Force Algorithm
 features.csv - Contains the fully feature engineered dataset of the EEG signals
 ```
-## Contribution
-**Vishal Anand**- Department of Mechanical Engineering, IIT Kharagpur  
-**Zaki Ahmed** - Department of Mechanical Engineering, IIT Kharagpur  
-**Sr Sreeja** - Department of Computer Science and Engineering, IIT Kharagpur
+
