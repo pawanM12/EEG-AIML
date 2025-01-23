@@ -10,7 +10,7 @@ For a more concise and visually pleasing presentation of this project, please se
 
 ```bash
 EMOTIVE 	    - Epoc+
-SENSOR COUNT    - 14+2 references
+SENSOR COUNT    -   14+2 references
 SENSOR 		    - AF3, AF4, F3, F4, FC5, FC6, F7, F8, T7, T8, P7, P8, O1, O2
 SAMPLE RATE	    - 128 Hz
 ```
